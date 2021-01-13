@@ -1,0 +1,26 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+.panda-slide {
+  border-radius: 1em;
+  background-color: #fceae8;
+}
+.img-size {
+  width: 100px;
+}
+
+.input{
+  width: 75%;
+   
+   
+}
+.input-section{
+    border-radius: 1em;
+}
+.price-color{
+    color: #de4251;
+}
+.carousel-margin-top{
+    margin-top: 100px;
+}
